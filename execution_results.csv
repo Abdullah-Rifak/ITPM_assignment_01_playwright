@@ -1,0 +1,4 @@
+file_type,file_path,preview_detected,status,screenshot
+PNG,D:\test_automation_ui\test_automation_ui\sample.png,True,PASS,D:\test_automation_ui\test_automation_ui\results\preview_pass.png
+PNG,D:\test_automation_ui\test_automation_ui\sample_alt.png,True,PASS,D:\test_automation_ui\test_automation_ui\results\alt\preview_pass.png
+PNG,D:\test_automation_ui\test_automation_ui\sample_alt.png,True,PASS,D:\test_automation_ui\test_automation_ui\results\alt\preview_pass.png
